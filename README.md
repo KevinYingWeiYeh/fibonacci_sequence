@@ -1,3 +1,15 @@
+
+## Instruction from author Kevin Yeh
+
+  the fibonacci sequence component is under:
+  ```
+  src/
+    component/
+      fibonacci_sequence.css
+      fibonacci_sequence.js
+      fibonacci_sequence.test.js
+  ```
+  
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

@@ -1,6 +1,6 @@
 /*
 	project name: Fibonacci Sequence
-	auther: Kevin Yeh
+	author: Kevin Yeh
 	return: revinyeh@gmail.com 
 	created: May. 14. 2018
 	varsion: 0.1.0
@@ -8,7 +8,7 @@
 
 import React, { Component } from 'react';
 import './fibonacci_sequence.css';
-import _ from 'lodash'
+import _ from 'lodash';
 
 class FibonacciSequence extends Component {
 	constructor(props){
