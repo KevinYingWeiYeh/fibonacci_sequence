@@ -1,0 +1,33 @@
+.fibonacci_sequence_containner {
+	padding: 10px;
+	margin: 10px;
+	border-style: solid;
+	border-width: medium;
+	text-decoration: none;
+}
+
+.fibonacci_sequence_input {
+	width: 150px;
+	background-color: #e3e3e3;
+	margin-right: 10px;
+}
+
+.fibonacci_sequence_submit_button {
+	background-color: #0000c3;
+	border-radius: 8px;
+	color: #ffffff;
+	padding: 10px;
+	font-size: 14px;
+}
+
+.fibonacci_sequence_submit_button:hover {
+	background-color: #00FFFF;
+	border-radius: 8px;
+	color: #000000;
+	padding: 10px;
+	font-size: 14px;
+}
+
+.fibonacci_sequence_message_containner{
+	padding: 20px;
+}
